@@ -57,7 +57,7 @@ body{
   vertical-align: bottom;
   display: inline-block;
   border: 3px solid grey;
-  bottom: 65px;
+  bottom: 100px;
   /* padding-right: 50px; */
   left: 0;
   pointer-events: none;
